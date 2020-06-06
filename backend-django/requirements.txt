@@ -1,5 +1,5 @@
 asgiref==3.2.3
-Django==2.2.7
+Django==2.2.13
 django-cors-headers==3.2.1
 django-default-imagefield==0.5.5
 django-polymorphic==2.1.2
